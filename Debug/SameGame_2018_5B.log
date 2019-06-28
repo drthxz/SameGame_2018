@@ -1,0 +1,6 @@
+﻿  Skill.cpp
+c:\users\student\desktop\samegame_2018_5b\samegame_2018\skill.cpp(75): warning C4458: 'i' を宣言すると、クラス メンバーが隠蔽されます
+  c:\users\student\desktop\samegame_2018_5b\samegame_2018\skill.h(16): note: 'Skill::i' の宣言を確認してください
+     ライブラリ C:\Users\student\Desktop\SameGame_2018_5B\SameGame_2018\Debug\SameGame_2018_5B.lib とオブジェクト C:\Users\student\Desktop\SameGame_2018_5B\SameGame_2018\Debug\SameGame_2018_5B.exp を作成中
+  SameGame_2018_5B.vcxproj -> C:\Users\student\Desktop\SameGame_2018_5B\SameGame_2018\Debug\SameGame_2018_5B.exe
+  SameGame_2018_5B.vcxproj -> C:\Users\student\Desktop\SameGame_2018_5B\SameGame_2018\Debug\SameGame_2018_5B.pdb (Full PDB)
